@@ -18,6 +18,7 @@ public class App {
 //		
 //		toPrint();
 		
+		
 		RankAlgorithm rankAlgorithm = new RankAlgorithm();
 		rankAlgorithm.toString();
 		

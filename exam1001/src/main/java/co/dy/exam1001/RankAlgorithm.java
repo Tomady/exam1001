@@ -21,6 +21,7 @@ public class RankAlgorithm {
 					rank[k]++;
 				} else if (grade[i] < grade[k]) {
 					rank[i]++;
+					
 				}
 			}
 		}
